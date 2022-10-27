@@ -1,7 +1,7 @@
 {
    "UNBOUND_ADDON_AUTHOR": "Author",
    "UNBOUND_ADDON_FAILED_DELETE": "Failed to delete",
-   "UNBOUND_ADDON_FAILED_DELETE_DESC": "Couldn't delete {addon}, is it being used by another proccess?",
+   "UNBOUND_ADDON_FAILED_DELETE_DESC": "Couldn't delete {addon}, is it being used by another process?",
    "UNBOUND_ADDONS_FOUND": "Found missing {type}",
    "UNBOUND_ADDON_FAILED_RELOAD": "Failed to reload",
    "UNBOUND_ADDON_RELOADED": "Reloaded",
