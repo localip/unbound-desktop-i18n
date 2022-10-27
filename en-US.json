@@ -28,7 +28,7 @@
    "UNBOUND_DEV_SETTINGS_EXPERIMENTS_DESCRIPTION": "Enables testing for unreleased features at the bottom of settings.",
    "UNBOUND_DEV_SETTINGS_EXPERIMENTS_TITLE": "Experiments",
    "UNBOUND_DEV_SETTINGS_TITLE": "Developer Settings",
-   "UNBOUND_DEV_SETTINGS_WARNING_DESCRIPTION": "Removes the \"Hold Up!\" warning everytime you open Chrome DevTools.",
+   "UNBOUND_DEV_SETTINGS_WARNING_DESCRIPTION": "Removes the \"Hold Up!\" warning every time you open Chrome DevTools.",
    "UNBOUND_DEV_SETTINGS_WARNING_TITLE": "DevTools Warning",
    "UNBOUND_FILTERS": "Filters",
    "UNBOUND_FILTER_AUTHOR": "Author",
