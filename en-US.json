@@ -43,7 +43,7 @@
    "UNBOUND_PLUGINS": "Plugins",
    "UNBOUND_RELOAD": "Reload",
    "UNBOUND_RESTART": "Restart",
-   "UNBOUND_RESTART_SETTING_DESC": "This setting requires a reload to apply, would you like to reload discord to apply this setting?",
+   "UNBOUND_RESTART_SETTING_DESC": "This setting requires a reload to apply, would you like to reload Discord to apply this setting?",
    "UNBOUND_SEARCH_OPTIONS": "Search Options",
    "UNBOUND_SEARCH_PLUGINS": "Search plugins...",
    "UNBOUND_SEARCH_THEMES": "Search themes...",
